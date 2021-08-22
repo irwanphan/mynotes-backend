@@ -100,3 +100,5 @@ class NotesHandler {
         }
     }
 }
+
+module.exports = NotesHandler
